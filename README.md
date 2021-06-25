@@ -1,2 +1,2 @@
-# deep_finalproject_dataset
-Datasets - Deep Learning Final Project
+# deep_learning_course_finalproject
+Deep Learning Course - Final Project
